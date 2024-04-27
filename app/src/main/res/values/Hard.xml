@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="family_hard">
+        <item>Grandmother,Abuela</item>
+        <item>Grandfather,Abuelo</item>
+        <item>Granddaughter,Nieta</item>
+        <item>Grandson,Nieto</item>
+        <item>Cousin,Primo</item>
+        <item>Niece,Sobrina</item>
+        <item>Nephew,Sobrino</item>
+        <item>Half-sister,Hermanastra</item>
+        <item>Great-grandmother,Bisabuela</item>
+        <item>Great-grandfather,Bisabuelo</item>
+        <item>Stepfather,Padrastro</item>
+        <item>Stepmother,Madrastra</item>
+        <item>Sibling,Hermanos</item>
+        <item>Half-brother,Hermanastro</item>
+        <item>Twins,Gemelos</item>
+        <item>Godson,Ahijado</item>
+    </string-array>
+
+    <string-array name="greetings_hard">
+        <item>Good morning,Buenos dias</item>
+        <item>Good afternoon,Buenas tardes</item>
+        <item>Good evening,Buenas noches</item>
+        <item>Nice to meet you,Mucho gusto</item>
+        <item>See you later,Hasta luego</item>
+        <item>What is up?,Que pasa? </item>
+        <item>How are you?,Como estas?</item>
+        <item>Welcome,Bienvenido</item>
+        <item>Take care,Cuidate</item>
+        <item>All the best,Todo lo mejor</item>
+        <item>Good luck,Buena suerte</item>
+        <item>Bon appetit,Buen provecho</item>
+        <item>You look great,Te ves genial</item>
+        <item>Happy Birthday,Feliz cumpleaños</item>
+        <item>Been a while,Pasado un tiempo</item>
+        <item>Congratulations,Felicitaciones</item>
+    </string-array>
+
+    <string-array name="food_drinks_hard">
+        <item>Vegetables,Verduras</item>
+        <item>Breakfast,Desayuno</item>
+        <item>Food,Comida</item>
+        <item>Dinner,Cena</item>
+        <item>Smoothie,Batido</item>
+        <item>Butter,Mantequilla</item>
+        <item>Burger,Hamburguesa</item>
+        <item>Salad,Ensalada</item>
+        <item>Rice,Arroz</item>
+        <item>Snack,Bocadillo</item>
+        <item>Soda,Refresco</item>
+        <item>Fish,Pescado</item>
+        <item>Appetizer,Aperitivo</item>
+        <item>Dessert,Postre</item>
+        <item>Main course,Plato principal</item>
+        <item>Lunch,Almuerzo</item>
+    </string-array>
+
+    <string-array name="directions_hard">
+        <item>Left,Izquierda</item>
+        <item>Right,Derecha</item>
+        <item>Straight,Derecho</item>
+        <item>Back,Atras</item>
+        <item>Near,Cerca</item>
+        <item>Far,Lejos</item>
+        <item>Inside,Adentro</item>
+        <item>Outside,Afuera</item>
+        <item>Forward,Adelante</item>
+        <item>Intersection,Interseccion</item>
+        <item>Traffic light,Semaforo</item>
+        <item>Pedestrian,Peaton</item>
+        <item>Road,Carretera</item>
+        <item>Street,Calle</item>
+        <item>Bridge,Puente</item>
+        <item>Avenue,Avenida</item>
+    </string-array>
+
+
+</resources>
